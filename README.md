@@ -1,5 +1,4 @@
-# 📝 Permalist – The Persistent To-Do List
-
+# 📝 The Persistent To-Do List - Permalist
 **Permalist** is a simple yet powerful to-do list web application that helps you stay organized by allowing you to create, edit, and delete tasks. Built with Node.js, Express.js, and PostgreSQL, Permalist ensures your tasks are always saved and accessible.
 
 ![image](https://github.com/user-attachments/assets/4fd35ad2-0980-4ce6-980a-d8c4a31226f3)
